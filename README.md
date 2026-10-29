@@ -39,15 +39,27 @@ Pictures for Sir Quailbert the Wanderer (the Quailwood Club Discord bot). They a
 Pictures of Quailwood locations for `/map_of_quailwood`. The old bot kept one test entry, so everything here is new. One image per location, named after it, for example `town-square.png`. A list of the locations to illustrate comes with the map port.
 
 ### trains/
-| File | Used for | Status |
-| --- | --- | --- |
-| `train-5.png` | the 5-spark train (Nomentano) | needed |
-| `train-3.png` | the 3-spark train (Nomentano) | needed |
-| `train-1.png` | the 1-spark train (Nomentano) | needed |
-| `train-2.png` | a 2-spark train (Quailwood) | needed |
-| `train-4.png` | a 4-spark train (Quailwood) | needed |
-| `train-done.png` | a train that has finished | needed |
-| `next-up.png` | the "you are next" reminder | needed |
+Spark trains. Nomentano first (Count Nomento's voice). Pictures marked "per voice" need a `-count` version (Nomentano) and later a `-quailbert` version (Quailwood and other servers). Square thumbnails 256 to 512 px; the wide pictures about 1024 x 512 px (2:1). PNG, under 500 KB.
+
+**Nomentano set (needed first)**
+| File | Shape | Used for | Status |
+| --- | --- | --- | --- |
+| `spin-count.png` | wide | the Count spinning the wheel of names; shown when the next round's order is drawn and on `/train spin` | needed |
+| `train-5.png` | square | thumbnail on the 5-spark train's cards | needed |
+| `train-3.png` | square | thumbnail on the 3-spark train's cards | needed |
+| `train-1.png` | square | thumbnail on the 1-spark train's cards | needed |
+| `next-up-count.png` | square | thumbnail on "Next build" (the next builder's address announcement) | needed |
+| `train-done-count.png` | wide | when a train is ended with `/train end` | needed |
+
+**Later (Quailwood and other servers)**
+| File | Shape | Used for | Status |
+| --- | --- | --- | --- |
+| `spin-quailbert.png` | wide | Sir Quailbert spinning the wheel | needed |
+| `next-up-quailbert.png` | square | "Next build" with Sir Quailbert | needed |
+| `train-done-quailbert.png` | wide | end of a train with Sir Quailbert | needed |
+| `train-2.png`, `train-4.png` | square | the Quailwood 2- and 4-spark trains | needed |
+
+If a picture is missing, the message simply shows without it.
 
 ### seasons/
 | File | Used for | Status |
