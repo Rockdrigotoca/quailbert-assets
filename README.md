@@ -39,25 +39,25 @@ Pictures for Sir Quailbert the Wanderer (the Quailwood Club Discord bot). They a
 Pictures of Quailwood locations for `/map_of_quailwood`. The old bot kept one test entry, so everything here is new. One image per location, named after it, for example `town-square.png`. A list of the locations to illustrate comes with the map port.
 
 ### trains/
-Spark trains. Nomentano first (Count Nomento's voice). Pictures marked "per voice" need a `-count` version (Nomentano) and later a `-quailbert` version (Quailwood and other servers). Square thumbnails 256 to 512 px; the wide pictures about 1024 x 512 px (2:1). PNG, under 500 KB.
+Spark trains. Nomentano first (Count Nomento's voice). Pictures marked "per voice" need a `-count` version (Nomentano) and later a `-quailbert` version (Quailwood and other servers). Square thumbnails 256 to 512 px; the wide pictures about 1024 x 512 px (2:1). Save the train pictures as JPG (the bot looks for `.jpg`), under 1 MB.
 
 **Nomentano set (needed first)**
 | File | Shape | Used for | Status |
 | --- | --- | --- | --- |
-| `spin-count.png` | wide | the Count spinning the wheel of names; shown when the next round's order is drawn and on `/train spin` | needed |
-| `train-5.png` | square | thumbnail on the 5-spark train's cards | needed |
-| `train-3.png` | square | thumbnail on the 3-spark train's cards | needed |
-| `train-1.png` | square | thumbnail on the 1-spark train's cards | needed |
-| `next-up-count.png` | square | thumbnail on "Next build" (the next builder's address announcement) | needed |
-| `train-done-count.png` | wide | when a train is ended with `/train end` | needed |
+| `spin-count.jpg` | wide | the Count spinning the wheel of names; shown when the next round's order is drawn and on `/train spin` | have it |
+| `train-5.jpg` | portrait | thumbnail on the 5-spark train's cards | have it |
+| `train-3.jpg` | portrait | thumbnail on the 3-spark train's cards | have it |
+| `train-1.jpg` | portrait | thumbnail on the 1-spark train's cards | have it |
+| `next-up-count.jpg` | square | thumbnail on "Next build" (the next builder's address announcement) | needed |
+| `train-done-count.jpg` | wide | when a train is ended with `/train end` | needed |
 
 **Later (Quailwood and other servers)**
 | File | Shape | Used for | Status |
 | --- | --- | --- | --- |
-| `spin-quailbert.png` | wide | Sir Quailbert spinning the wheel | needed |
-| `next-up-quailbert.png` | square | "Next build" with Sir Quailbert | needed |
-| `train-done-quailbert.png` | wide | end of a train with Sir Quailbert | needed |
-| `train-2.png`, `train-4.png` | square | the Quailwood 2- and 4-spark trains | needed |
+| `spin-quailbert.jpg` | wide | Sir Quailbert spinning the wheel | needed |
+| `next-up-quailbert.jpg` | square | "Next build" with Sir Quailbert | needed |
+| `train-done-quailbert.jpg` | wide | end of a train with Sir Quailbert | needed |
+| `train-2.jpg`, `train-4.jpg` | square | the Quailwood 2- and 4-spark trains | needed |
 
 If a picture is missing, the message simply shows without it.
 
