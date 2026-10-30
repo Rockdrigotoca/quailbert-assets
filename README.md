@@ -19,6 +19,8 @@ Pictures for Sir Quailbert the Wanderer (the Quailwood Club Discord bot). They a
 | `toss-tails.png` | `/toss`, tails | have it |
 | `toss-side.png` | `/toss`, lands on its side | have it |
 | `toss-drunk.png` | `/toss` while Sir Quailbert is drunk | have it |
+| `squirrel.png` | `/squirrel`, a regular sighting | needed |
+| `silver-squirrel.png` | `/squirrel`, the rare Silver Squirrel (5%) | needed |
 | `duel.png` | `/duel` banner | needed |
 | `curse.png` | `/curse` banner | needed |
 | `feast.png` | `/feast` banner | needed |
